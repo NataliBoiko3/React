@@ -1,12 +1,15 @@
 
 import './App.css';
-import photo1 from './images/photo1.jpg';
+// import photo1 from './images/photo1.jpg';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>Мой профиль 👩</h1>
+
+      <h1> Hello React 🚀</h1>
+      </header>
+      {/* <h1>Мой профиль 👩</h1>
       </header>
 
       <main className='App-main'>
@@ -24,7 +27,7 @@ function App() {
 
       <footer className='App-footer'>
         <p>@2024 Наталья Бойко.Все права защищены.</p>
-      </footer>
+      </footer> */}
 </div>
   );
 }

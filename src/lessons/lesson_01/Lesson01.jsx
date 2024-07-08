@@ -8,7 +8,7 @@ import './lesson01.css'
   // создаем переменную со значением в теле функции до return
 export default function Lesson01() {
     const heading = 'Урок 01'
-    const classContainer = 'lesson1-container'
+    const classContainer = 'lesson-container'
     
     function formatName(user) {
         return `Имя: ${user.name}, фамилия: ${user.lastName}🧒`
